@@ -10,7 +10,6 @@ The Permian Basin produces roughly 28% of major U.S. shale gas — but this gas 
 
 Using machine learning (XGBoost) and economic modeling, we quantify this "Oil-Induced Gas" risk and demonstrate how interconnected energy markets create hidden vulnerabilities for consumers.
 
-![Market Share Visualization](docs/market_share.png)
 
 ## Key Findings
 

@@ -151,12 +151,11 @@ The foundational chart showing how Permian gas production continues to grow rega
 
 ### 2. Market Share Evolution
 Shows the Permian Basin's growing dominance in U.S. shale gas production — illustrating the increasing systemic risk.
-<img width="1123" height="566" alt="image" src="https://github.com/user-attachments/assets/83251ad8-ce61-4ce8-87e7-e9a2c09d478e" />
+<img width="1067" height="518" alt="image" src="https://github.com/user-attachments/assets/b8c94fc5-3876-4518-a5ea-64943e875f00" />
 
 ### 3. The "Permian Subsidy" (Counterfactual Analysis)
 The key visualization: actual gas prices vs. predicted prices without Permian supply. **The gap represents how much more consumers would pay if oil prices crashed and Permian drilling stopped.**
 <img width="1137" height="503" alt="image" src="https://github.com/user-attachments/assets/90b94e3b-6ea2-4ced-a03a-a85275f8f7bd" />
-
 
 ### 4. Oil Price vs. Bottleneck Proxy
 Secondary analysis showing correlation between WTI prices and pipeline congestion metrics.

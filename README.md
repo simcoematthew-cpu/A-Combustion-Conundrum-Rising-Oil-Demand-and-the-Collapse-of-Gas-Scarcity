@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project investigates a critical but underappreciated vulnerability in U.S. energy markets: how crashes in oil prices can trigger severe natural gas supply shocks, causing gas prices to spike dramatically and hurting American consumers.
+This project investigates an underappreciated vulnerability in U.S. energy markets: how crashes in oil prices can trigger severe natural gas supply shocks, causing gas prices to spike dramatically and hurting American consumers.
 The Permian Basin produces roughly 28% of major U.S. shale gas — but this gas is a byproduct of oil drilling. Permian producers drill for oil, which provides approximately 90% of their revenue. Natural gas is simply what comes out of the ground alongside the oil. This means producers are economically price-insensitive to natural gas — they'll keep producing gas regardless of whether gas prices are high or low, as long as oil drilling remains profitable.
 This creates a hidden vulnerability: when oil prices collapse, drilling stops, and this massive gas supply disappears from the market regardless of gas demand. American consumers who rely on natural gas for heating, electricity, and industrial processes would face dramatic price spikes through no fault of their own — their energy bills are effectively hostage to oil market dynamics.
 Using machine learning (XGBoost) and economic modeling, this project:

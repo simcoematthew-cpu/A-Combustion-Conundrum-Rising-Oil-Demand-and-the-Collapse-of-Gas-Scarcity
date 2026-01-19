@@ -155,7 +155,8 @@ Shows the Permian Basin's growing dominance in U.S. shale gas production — ill
 
 ### 3. The "Permian Subsidy" (Counterfactual Analysis)
 The key visualization: actual gas prices vs. predicted prices without Permian supply. **The gap represents how much more consumers would pay if oil prices crashed and Permian drilling stopped.**
-<img width="1129" height="571" alt="image" src="https://github.com/user-attachments/assets/d331afc7-d57e-4b91-8755-d5c07be521ce" />
+<img width="1137" height="503" alt="image" src="https://github.com/user-attachments/assets/90b94e3b-6ea2-4ced-a03a-a85275f8f7bd" />
+
 
 ### 4. Oil Price vs. Bottleneck Proxy
 Secondary analysis showing correlation between WTI prices and pipeline congestion metrics.

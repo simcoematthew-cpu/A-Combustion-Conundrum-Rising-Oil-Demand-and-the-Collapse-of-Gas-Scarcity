@@ -142,6 +142,7 @@ data_path = r"your/data/path/here"
 
 ### 1. Market Share Evolution
 Shows the Permian Basin's growing dominance in U.S. shale gas production — illustrating the increasing systemic risk.
+<img width="1126" height="563" alt="image" src="https://github.com/user-attachments/assets/b5949e4f-b64f-4f6b-a36e-30e5c25cc18c" />
 
 ### 2. The "Permian Subsidy" (Counterfactual Analysis)
 The key visualization: actual gas prices vs. predicted prices without Permian supply. **The gap represents how much more consumers would pay if oil prices crashed and Permian drilling stopped.**

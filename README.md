@@ -154,7 +154,7 @@ Shows the Permian Basin's growing dominance in U.S. shale gas production — ill
 <img width="1067" height="518" alt="image" src="https://github.com/user-attachments/assets/b8c94fc5-3876-4518-a5ea-64943e875f00" />
 
 ### 3. The "Permian Subsidy" (Counterfactual Analysis)
-The key visualization: actual gas prices vs. predicted prices without Permian supply. **The gap represents how much more consumers would pay if oil prices crashed and Permian drilling stopped.**
+This visualization shows that oil revenue (brown) vastly exceeds gas revenue (orange) in the Permian Basin — proving that producers are economically driven by oil, not gas. Gas is simply a byproduct, making Permian gas supply price-insensitive to natural gas market conditions.
 <img width="1137" height="503" alt="image" src="https://github.com/user-attachments/assets/90b94e3b-6ea2-4ced-a03a-a85275f8f7bd" />
 
 ### 4. Oil Price vs. Bottleneck Proxy

@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![XGBoost](https://img.shields.io/badge/ML-XGBoost-orange.svg)](https://xgboost.readthedocs.io/)
 
-## Overview
+## A Combustion Conundrum: How the Global Oil Glut Masks Natural Gas Scarcity
 
 This project investigates a vulnerability in U.S. energy markets: how crashes in oil prices can triggernatural gas supply shocks, causing gas prices to spike dramatically, hurting American consumers.
 The Permian Basin produces roughly 28% of major U.S. shale gas — but this gas is a byproduct of oil drilling. Permian producers drill for oil, which provides approximately 90% of their revenue. Natural gas is simply what comes out of the ground alongside the oil. This means producers are economically price-insensitive to natural gas — they'll keep producing gas regardless of whether gas prices are high or low, as long as oil drilling remains profitable.

@@ -178,6 +178,21 @@ Price Change = Supply Shock / |PED|
 
 **Translation**: At a base price of $2.75/MMBtu, removing Permian supply could spike prices to $6.60/MMBtu or higher — a devastating impact on consumer heating and electricity bills.
 
+Conclusion
+This analysis reveals a hidden structural vulnerability in U.S. energy markets that directly impacts American consumers.
+What we proved:
+1.	The Permian dominates U.S. gas supply — accounting for ~28% of major shale gas production, and that share continues to grow.
+2.	Gas is a byproduct, not a product — Oil provides ~90% of Permian drilling revenue. Producers drill for oil; gas just comes along for the ride.
+3.	This creates price insensitivity — Permian gas production is completely decoupled from natural gas prices. Whether Henry Hub is at $2 or $6, Permian gas keeps flowing as long as oil drilling is profitable.
+4.	Consumers benefit... for now — This flood of "accidental" gas supply acts as a subsidy, keeping prices lower than they would otherwise be.
+The risk:
+When oil prices crash — as they did in 2014-2016 and 2020 — Permian drilling slows dramatically. But unlike dedicated gas basins like Appalachia, this has nothing to do with gas demand. American consumers could face 100-140% price spikes in natural gas not because they're using more gas, but because oil markets collapsed halfway around the world.
+The bottom line:
+American households heating their homes and businesses powering their operations are unknowingly exposed to oil market volatility. The very mechanism that keeps gas cheap today — abundant associated gas from oil drilling — is the same mechanism that could spike their bills tomorrow.
+U.S. energy security isn't just about oil independence. It's about understanding that our natural gas supply is increasingly tied to oil economics, creating a hidden vulnerability that policymakers and consumers alike should understand.
+
+
+
 ## Data Sources
 
 - **Production Data**: U.S. Energy Information Administration (EIA) Drilling Productivity Report

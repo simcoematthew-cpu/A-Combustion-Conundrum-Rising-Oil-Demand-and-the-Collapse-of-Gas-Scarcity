@@ -178,7 +178,8 @@ Price Change = Supply Shock / |PED|
 
 **Translation**: At a base price of $2.75/MMBtu, removing Permian supply could spike prices to $6.60/MMBtu or higher — a devastating impact on consumer heating and electricity bills.
 
-Conclusion
+Conclusion:
+
 This analysis reveals a hidden structural vulnerability in U.S. energy markets that directly impacts American consumers.
 What we proved:
 1.	The Permian dominates U.S. gas supply — accounting for ~28% of major shale gas production, and that share continues to grow.
